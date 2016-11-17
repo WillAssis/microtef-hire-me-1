@@ -1,0 +1,4 @@
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Entities\bin\Release\DesafioStone.Entities.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Entities\bin\Release\DesafioStone.Entities.pdb
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Entities\obj\Release\DesafioStone.Entities.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Entities\obj\Release\DesafioStone.Entities.pdb

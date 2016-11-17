@@ -1,0 +1,8 @@
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\bin\Release\DesafioStone.OldButGold.Service.dll.config
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\bin\Release\DesafioStone.OldButGold.Service.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\bin\Release\DesafioStone.OldButGold.Service.pdb
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\bin\Release\DesafioStone.Entities.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\bin\Release\DesafioStone.Entities.pdb
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\obj\Release\DesafioStone.OldButGold.Service.csprojResolveAssemblyReference.cache
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\obj\Release\DesafioStone.OldButGold.Service.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\obj\Release\DesafioStone.OldButGold.Service.pdb

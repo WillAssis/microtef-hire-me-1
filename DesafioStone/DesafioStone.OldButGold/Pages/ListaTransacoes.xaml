@@ -1,0 +1,25 @@
+﻿<Page x:Class="DesafioStone.OldButGold.Pages.ListaTransacoes"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DesafioStone.OldButGold.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="750"
+      Title="ListaTransacoes">
+    <Grid>
+        <!--Tabela -->
+        <ListView Margin="10" Name="lvTransactions">
+            <ListView.View>
+                <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Authors">
+                    <GridViewColumn Header="Código da Transação" Width="120" DisplayMemberBinding="{Binding Path=IdTransaction}" />
+                    <GridViewColumn Header="Valor da Transação" Width="120" DisplayMemberBinding="{Binding Path=Amount}" />
+                    <GridViewColumn Header="Tipo da Transação" Width="120" DisplayMemberBinding="{Binding Path=Type}" />
+                    <GridViewColumn Header="Número de Parcelas" Width="120" DisplayMemberBinding="{Binding Path=Number}" />
+                    <GridViewColumn Header="Nome do Cliente" Width="120" DisplayMemberBinding="{Binding Path=ClientName}" />
+                    <GridViewColumn Header="Número do Cartão" Width="120" DisplayMemberBinding="{Binding Path=CardNumber}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Page>

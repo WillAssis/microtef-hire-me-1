@@ -1,0 +1,7 @@
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\bin\Release\DesafioStone.Domain.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\bin\Release\DesafioStone.Domain.pdb
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\bin\Release\DesafioStone.Entities.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\bin\Release\DesafioStone.Entities.pdb
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\obj\Release\DesafioStone.Domain.csprojResolveAssemblyReference.cache
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\obj\Release\DesafioStone.Domain.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\obj\Release\DesafioStone.Domain.pdb

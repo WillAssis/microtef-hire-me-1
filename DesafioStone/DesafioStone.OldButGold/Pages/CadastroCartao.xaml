@@ -1,0 +1,111 @@
+﻿<Page x:Class="DesafioStone.OldButGold.Pages.CadastroCartao"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DesafioStone.OldButGold.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="CadastroCartao">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Column="0" Style="{StaticResource headerTextStyle}">
+            Cadastro de Cartões
+        </Label>
+        <Grid Margin="10" Grid.Column="0" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <!-- CardholderName -->
+            <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" Orientation="Horizontal">
+                <Label Style="{StaticResource labelStyle}">Nome no Cartão:</Label>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="0" Orientation="Horizontal">
+                <TextBox Name="CardholderName" Style="{StaticResource textBoxStyle}"></TextBox>
+            </StackPanel>
+
+            <!-- Number -->
+            <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Orientation="Horizontal">
+                <Label Style="{StaticResource labelStyle}">Número do Cartão:</Label>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="1" Orientation="Horizontal">
+                <TextBox Name="Number" Style="{StaticResource textBoxStyle}"></TextBox>
+            </StackPanel>
+
+            <!-- ExpirationDate -->
+            <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="2" Orientation="Horizontal">
+                <Label Style="{StaticResource labelStyle}">Data de Expiração:</Label>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="2" Orientation="Horizontal">
+                <DatePicker Name="ExpirationDate" Style="{StaticResource datePickerStyle}"></DatePicker>
+            </StackPanel>
+
+            <!-- CardBrand -->
+            <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="3" Orientation="Horizontal">
+                <Label Style="{StaticResource labelStyle}">Bandeira do Cartão:</Label>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="3" Orientation="Horizontal">
+                <ComboBox Name="CardBrand" Style="{StaticResource comboBoxStyle}" SelectedIndex="0">
+                    <ComboBoxItem Content="-- Selecione --"/>
+                    <ComboBoxItem Content="Visa"/>
+                    <ComboBoxItem Content="MasterCard"/>
+                </ComboBox>
+            </StackPanel>
+
+            <!-- Password -->
+            <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="4" Orientation="Horizontal">
+                <Label Style="{StaticResource labelStyle}">Senha:</Label>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="4" Orientation="Horizontal">
+                <PasswordBox Name="Password" Style="{StaticResource passwordStyle}"></PasswordBox>
+            </StackPanel>
+
+            <!-- Type -->
+            <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="5" Orientation="Horizontal">
+                <Label Style="{StaticResource labelStyle}">Tipo de Cartão:</Label>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="5" Orientation="Horizontal">
+                <ComboBox Name="Type" Style="{StaticResource comboBoxStyle}" SelectedIndex="0">
+                    <ComboBoxItem Content="-- Selecione --"/>
+                    <ComboBoxItem Content="Chip"/>
+                    <ComboBoxItem Content="Tarja Magnética"/>
+                </ComboBox>
+            </StackPanel>
+
+            <!-- Cliente Cadastrado -->
+            <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="6" Orientation="Horizontal">
+                <Label Style="{StaticResource labelStyle}">Cliente Cadastrado:</Label>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="6" Orientation="Horizontal">
+                <ComboBox Name="ClientName" Style="{StaticResource comboBoxStyle}"></ComboBox>
+            </StackPanel>
+
+            <!-- Button -->
+            <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="7" Orientation="Horizontal">
+                <Button Style="{StaticResource buttonStyle}" Click="Salvar" >Salvar</Button>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="7" Orientation="Horizontal">
+                <Button Style="{StaticResource buttonStyle}" Click="Cancelar" >Cancelar</Button>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,16 @@
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\bin\Debug\DesafioStone.OldButGold.Service.dll.config
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\bin\Debug\DesafioStone.OldButGold.Service.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\bin\Debug\DesafioStone.OldButGold.Service.pdb
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\bin\Debug\DesafioStone.Entities.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\bin\Debug\DesafioStone.Entities.pdb
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\obj\Debug\DesafioStone.OldButGold.Service.csprojResolveAssemblyReference.cache
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\obj\Debug\DesafioStone.OldButGold.Service.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.OldButGold.Service\obj\Debug\DesafioStone.OldButGold.Service.pdb
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.OldButGold.Service\bin\Debug\DesafioStone.OldButGold.Service.dll.config
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.OldButGold.Service\bin\Debug\DesafioStone.OldButGold.Service.dll
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.OldButGold.Service\bin\Debug\DesafioStone.OldButGold.Service.pdb
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.OldButGold.Service\bin\Debug\DesafioStone.Entities.dll
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.OldButGold.Service\bin\Debug\DesafioStone.Entities.pdb
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.OldButGold.Service\obj\Debug\DesafioStone.OldButGold.Service.csprojResolveAssemblyReference.cache
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.OldButGold.Service\obj\Debug\DesafioStone.OldButGold.Service.dll
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.OldButGold.Service\obj\Debug\DesafioStone.OldButGold.Service.pdb

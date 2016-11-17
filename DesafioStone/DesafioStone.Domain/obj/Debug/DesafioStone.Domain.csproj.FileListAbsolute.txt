@@ -1,0 +1,14 @@
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\bin\Debug\DesafioStone.Domain.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\bin\Debug\DesafioStone.Domain.pdb
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\bin\Debug\DesafioStone.Entities.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\bin\Debug\DesafioStone.Entities.pdb
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\obj\Debug\DesafioStone.Domain.csprojResolveAssemblyReference.cache
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\obj\Debug\DesafioStone.Domain.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Domain\obj\Debug\DesafioStone.Domain.pdb
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.Domain\bin\Debug\DesafioStone.Domain.dll
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.Domain\bin\Debug\DesafioStone.Domain.pdb
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.Domain\bin\Debug\DesafioStone.Entities.dll
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.Domain\bin\Debug\DesafioStone.Entities.pdb
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.Domain\obj\Debug\DesafioStone.Domain.csprojResolveAssemblyReference.cache
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.Domain\obj\Debug\DesafioStone.Domain.dll
+C:\Users\willian.assis\Desktop\StoneFinal\DesafioStone\DesafioStone.Domain\obj\Debug\DesafioStone.Domain.pdb

@@ -1,0 +1,14 @@
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\bin\Release\DesafioStone.Infra.Repository.dll.config
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\bin\Release\DesafioStone.Infra.Repository.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\bin\Release\DesafioStone.Infra.Repository.pdb
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\bin\Release\DesafioStone.Domain.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\bin\Release\DesafioStone.Entities.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\bin\Release\EntityFramework.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\bin\Release\DesafioStone.Domain.pdb
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\bin\Release\DesafioStone.Entities.pdb
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\bin\Release\EntityFramework.xml
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\obj\Release\DesafioStone.Infra.Repository.csprojResolveAssemblyReference.cache
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\obj\Release\DesafioStone.Infra.Repository.dll
+C:\Users\willian.assis\Desktop\DesafioStone\DesafioStone.Infra.Repository\obj\Release\DesafioStone.Infra.Repository.pdb
